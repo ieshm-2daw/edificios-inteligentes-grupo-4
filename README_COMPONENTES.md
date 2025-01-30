@@ -9,7 +9,7 @@ Dichos materiales se encuentran en nuestro kit, podemos citar:
 <h3 align="center">Placa ESP-32</h3>
 
 <p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/7dc837e4-90f7-4ff4-9102-ad75c6675765)
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/ESP32-WROOM-32_module_on_ESP32-DevKitC_board.jpg
 " alt="Descripción" width="200">
 </p>
 
