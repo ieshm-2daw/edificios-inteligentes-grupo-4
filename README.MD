@@ -1,6 +1,6 @@
 # Control de Dispositivos con Home Assistant y TUYA
 
-## Lo que hemos conseguido:
+## Lo que hemos conseguido
 
 Este proyecto permite integrar y automatizar dispositivos inteligentes utilizando **Home Assistant** y **TUYA**. Con esta configuración, se logra:
 - Controlar la televisión, el aire acondicionado y la corriente eléctrica mediante un relé WiFi.
