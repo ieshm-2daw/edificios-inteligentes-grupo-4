@@ -1,7 +1,5 @@
 # Listado de componentes Grupo 4
 
-![Encabezado](img/encabezado.png)
-
 ## Listados de Componentes
 
 En la asignatura de Hora Libre y Configuración veremos la automatización y IoT en dispositivos como Raspberry Pi 5, Esp32…
@@ -10,7 +8,7 @@ Dichos materiales se encuentran en nuestro kit, podemos citar:
 
 ### Placa ESP-32
 
-![ESP-32](img/esp32.png)
+![ESP-32](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSktENF2GndpXJdWJesa-2Zu-qLQT9EjrbTW332hGQujE8a33SKpSz_Yl4ty_tCyXEQWcV7jxdLDIvuQia7g9sZNH3BfWgDOujRSt9jOSw)
 Se trata de un microcontrolador que integra tecnologías WiFi y Bluetooth, que le proporcionan conectividad con internet u otros dispositivos de nuestro entorno automático.
 
 ### Cable Alimentación Tipo C
@@ -109,7 +107,7 @@ Al igual que el sensor que traía originalmente nuestro kit, es un sensor de mov
 
 ### Mando a distancia universal IR Smart Life/Tuya
 
-![Control remoto IR](img/control_ir.png)
+![Control remoto IR]()
 Este dispositivo es un punto de acceso/control remoto que mediante luces infrarrojas envía señales a distintos dispositivos.
 
 ### Interruptor/Disyuntor inteligente WiFi Earu Electric EAKCB-T-M
