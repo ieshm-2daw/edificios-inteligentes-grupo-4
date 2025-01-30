@@ -9,7 +9,7 @@ Dichos materiales se encuentran en nuestro kit, podemos citar:
 <h3 align="center">Placa ESP-32</h3>
 
 <p align="center">
-  <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSktENF2GndpXJdWJesa-2Zu-qLQT9EjrbTW332hGQujE8a33SKpSz_Yl4ty_tCyXEQWcV7jxdLDIvuQia7g9sZNH3BfWgDOujRSt9jOSw" alt="Descripción" width="200">
+  <img src="https://www.google.com/imgres?q=cable%20tipo%20c%20usb&imgurl=https%3A%2F%2Fcdn.grupoelcorteingles.es%2FSGFM%2Fdctm%2FMEDIA03%2F202107%2F22%2F00189041001226____9__1200x1200.jpg&imgrefurl=https%3A%2F%2Fwww.elcorteingles.es%2Felectronica%2FA35216249-cable-samsung-de-usb-c-tipo-c-negro%2F&docid=u5ewf3AUI2FZnM&tbnid=L9Ds5ly82bhHMM&vet=12ahUKEwi9nu3LkZ2LAxXiSvEDHVtoKRMQM3oECHAQAA..i&w=1200&h=1200&hcb=2&ved=2ahUKEwi9nu3LkZ2LAxXiSvEDHVtoKRMQM3oECHAQAA" alt="Descripción" width="200">
 </p>
 
 Se trata de un microcontrolador que integra tecnologías WiFi y Bluetooth, que le proporcionan conectividad con internet u otros dispositivos de nuestro entorno automático.
