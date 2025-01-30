@@ -9,7 +9,7 @@ Dichos materiales se encuentran en nuestro kit, podemos citar:
 <h3 align="center">Placa ESP-32</h3>
 
 <p align="center">
-  <img src="https://www.google.com/imgres?q=esp32&imgurl=https%3A%2F%2Fmedia.rs-online.com%2FY2863990-01.jpg&imgrefurl=https%3A%2F%2Fes.rs-online.com%2Fweb%2Fp%2Fkits-de-desarrollo-de-microcontroladores%2F2863990&docid=5h1oncUpBXJP2M&tbnid=g1fQQGQ0__vJ2M&vet=12ahUKEwj6u-mzlZ2LAxUMB9sEHR_jD8MQM3oECCYQAA..i&w=1772&h=1275&hcb=2&ved=2ahUKEwj6u-mzlZ2LAxUMB9sEHR_jD8MQM3oECCYQAA" alt="ESP32" width="200">
+  <img src="https://www.google.com/imgres?q=esp32&imgurl=https%3A%2F%2Fmedia.rs-online.com%2FY2863990-01.jpg&imgrefurl=https%3A%2F%2Fes.rs-online.com%2Fweb%2Fp%2Fkits-de-desarrollo-de-microcontroladores%2F2863990&docid=5h1oncUpBXJP2M&tbnid=g1fQQGQ0__vJ2M&vet=12ahUKEwj6u-mzlZ2LAxUMB9sEHR_jD8MQM3oECCYQAA..i&w=1772&h=1275&hcb=2&ved=2ahUKEwj6u-mzlZ2LAxUMB9sEHR_jD8MQM3oECCYQAA" alt="ESP32">
 </p>
 
 
