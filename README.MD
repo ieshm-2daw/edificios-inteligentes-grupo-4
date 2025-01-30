@@ -1,5 +1,13 @@
 # Control de Dispositivos con Home Assistant y TUYA
 
+## Lo que hemos conseguido:
+
+Este proyecto permite integrar y automatizar dispositivos inteligentes utilizando **Home Assistant** y **TUYA**. Con esta configuración, se logra:
+- Controlar la televisión, el aire acondicionado y la corriente eléctrica mediante un relé WiFi.
+- Vincular dispositivos a Home Assistant a través de la integración de TUYA.
+- Configurar automatizaciones para encender y apagar dispositivos según la detección de movimiento.
+- Crear escenas en la aplicación TUYA para realizar múltiples acciones con un solo evento.
+
 ## Instalación y Configuración Inicial
 
 En primer lugar, debemos descargar la aplicación **Smart Life**, mediante la cual controlaremos los distintos dispositivos asociados. Luego, crearemos una cuenta y emparejaremos los dispositivos con la aplicación.
@@ -41,4 +49,5 @@ Esto puede implementarse mediante:
 Con esta configuración, se logra un control eficiente de los dispositivos inteligentes mediante Home Assistant y TUYA, optimizando la automatización del hogar.
 
 Para más información, consulta la [documentación oficial de TUYA](https://developer.tuya.com/) o la [comunidad de Home Assistant](https://community.home-assistant.io/).
+
 
