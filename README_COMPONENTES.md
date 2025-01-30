@@ -8,7 +8,10 @@ Dichos materiales se encuentran en nuestro kit, podemos citar:
 
 <h3 align="center">Placa ESP-32</h3>
 
-![ESP-32](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSktENF2GndpXJdWJesa-2Zu-qLQT9EjrbTW332hGQujE8a33SKpSz_Yl4ty_tCyXEQWcV7jxdLDIvuQia7g9sZNH3BfWgDOujRSt9jOSw)
+<p align="center">
+  <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSktENF2GndpXJdWJesa-2Zu-qLQT9EjrbTW332hGQujE8a33SKpSz_Yl4ty_tCyXEQWcV7jxdLDIvuQia7g9sZNH3BfWgDOujRSt9jOSw" alt="Descripción" width="200">
+</p>
+
 Se trata de un microcontrolador que integra tecnologías WiFi y Bluetooth, que le proporcionan conectividad con internet u otros dispositivos de nuestro entorno automático.
 
 <h3 align="center">Cable Alimentación Tipo C</h3>
