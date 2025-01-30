@@ -9,9 +9,9 @@ Dichos materiales se encuentran en nuestro kit, podemos citar:
 <h3 align="center">Placa ESP-32</h3>
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/ESP32-WROOM-32_module_on_ESP32-DevKitC_board.jpg
-" alt="Descripción" width="200">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/ESP32-WROOM-32_module_on_ESP32-DevKitC_board.jpg" alt="ESP32" width="200">
 </p>
+
 
 Se trata de un microcontrolador que integra tecnologías WiFi y Bluetooth, que le proporcionan conectividad con internet u otros dispositivos de nuestro entorno automático.
 
